@@ -2,7 +2,8 @@
 
 This project presents a Hospital Billing Dashboard created using Power BI. The dashboard provides insights into medical billing, insurance coverage, treatment costs, and department-wise billing distribution. It enables healthcare professionals and financial analysts to track and analyze billing trends efficiently.
 # Dashboard
-https://github.com/Vilasagarvaishnavi/Hospital-Analysis/blob/main/Dashboard.PNG
+![hospital](https://github.com/user-attachments/assets/7213ffbc-623a-4f13-9e87-de9188a5b3d3)
+
 # Features
 
 Key Financial Metrics: Displays important statistics such as total billing, out-of-pocket expenses, insurance coverage, and treatment costs.
